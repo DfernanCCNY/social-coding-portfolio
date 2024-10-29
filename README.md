@@ -1,1 +1,1 @@
-This repository was created for the purpose of being my social coding portfolio for CSC10800: Foundations of Data Science. It contains the contents of several coding acitivies paired with reflections of said entries regarding course material.
+This repository was created for the purpose of being my social coding portfolio for CSC10800: Foundations of Data Science. It contains the contents of several coding acitivies paired with reflections of said entries regarding course material. 
